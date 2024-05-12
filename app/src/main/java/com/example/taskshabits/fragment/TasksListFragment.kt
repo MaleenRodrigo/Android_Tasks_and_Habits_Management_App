@@ -64,7 +64,7 @@ class TasksListFragment : Fragment() {
             // Deleting completed task
             mTasksViewModel.deleteTask(tasks)
 
-            Toast.makeText(context, "Task Successfully Completed 👏🏻", Toast.LENGTH_SHORT).show()
+            Toast.makeText(context, "Task Successfully Completed!", Toast.LENGTH_SHORT).show()
 
         }
 
