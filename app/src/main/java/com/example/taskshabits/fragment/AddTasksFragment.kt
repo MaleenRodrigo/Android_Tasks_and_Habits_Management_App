@@ -116,7 +116,7 @@ class AddTasksFragment : Fragment() {
 
             // Add to database
             mTasksViewModel.addTask(Tasks(0, taskTitle, taskDesc, taskDateTime, prioritySelected))
-            Toast.makeText(context, "Completely Added", Toast.LENGTH_SHORT).show()
+            Toast.makeText(context, "Successfully Added", Toast.LENGTH_SHORT).show()
 
             findNavController().navigate(R.id.action_addTasksFragment_to_tasksListFragment)
         }
