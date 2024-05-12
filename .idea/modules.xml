@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks&amp;Habits.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks&amp;Habits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tasks&amp;Habits.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tasks&amp;Habits.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tasks&amp;Habits.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tasks&amp;Habits.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tasks&amp;Habits.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tasks&amp;Habits.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tasks&amp;Habits.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tasks&amp;Habits.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
